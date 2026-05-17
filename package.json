@@ -1,0 +1,13 @@
+{
+  "name": "nesug-green-economy-oracle",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Kiosk web app for NESt 2026 — The NESUG Green Economy Oracle. Deployed on Vercel.",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  }
+}
